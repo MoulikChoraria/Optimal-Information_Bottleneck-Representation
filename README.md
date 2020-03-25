@@ -1,7 +1,8 @@
 # Study to evaluate accuracy of information estimators & find optimal Information bottleneck representation from finite samples.
 
-Two major paradigms of information estimation, nearest neighbor and kernel density estimators are compared. A heuristic is developed to
-solve the information bottleneck problem via coordinate descent when using k-NN estimators, after developing a differentiable approximation for the exponential time complexity problem.  
+The information bottleneck method is a technique in information theory to explore the trade-off between compression and representational accuracy.  
+
+In this study, two major paradigms of information estimation, nearest neighbor and kernel density estimators are compared. A heuristic is developed to solve the information bottleneck problem via coordinate descent when using k-NN estimators, after developing a differentiable approximation for the exponential time complexity problem.  
 
 
 ## Files:
